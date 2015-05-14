@@ -26,7 +26,7 @@ Thinny is a beautiful theme for [Jekyll](http://jekyllrb.com/).
 [![Preview image](https://f.cloud.github.com/assets/5755892/2002329/bdb5a052-85ed-11e3-8e00-a892910b6917.png)](http://camporez.github.io/)
 The above image is a preview of how the post header looks on Thinny.
 
-A live demo is available [on my personal blog](http://camporez.com/).
+A live demo is available [on my personal blog](http://camporez.github.io/).
 
 ##More information
 Read the blog post [here](http://camporez.github.io/blog/thinny-2/).
