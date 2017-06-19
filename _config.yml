@@ -47,10 +47,10 @@ menu:
     url:          /about
     
   - title:        Resume
-    url:          /Resume
+    url:          /resume
     
-    - title:      Contact Me
-    url:          /Contact me
+   - title:       Contact Me
+    url:          /contactme
     
 
 copyright:
