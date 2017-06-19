@@ -20,7 +20,7 @@ paginate:         5
 
 # Custom vars
 icon:             /assets/images/icon.png
-cover:            /assets/images/background.jpg
+cover:            /assets/images/25.jpg
 
 social:
   - icon:         twitter
