@@ -24,12 +24,12 @@ cover:            /assets/images/background.jpg
 
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
+    url:          https://twitter.com/IronmanGreen
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
-    desc:         Fork me on github
+    url:          https://github.com/sgreen03
+    desc:         View my github page
 
   - icon:         googleplus-alt
     url:          https://google.com/+IanCamporezBrunelli
@@ -45,9 +45,16 @@ menu:
 
   - title:        About
     url:          /about
+    
+  - title:        Resume
+    url:          /Resume
+    
+    - title:      Contact Me
+    url:          /Contact me
+    
 
 copyright:
-  author:         Camporez
+  author:         Sean Green
   url:            http://camporez.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
