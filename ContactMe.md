@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-permalink: about/
+permalink: ContactMe/
 ---
 
 seangreen@live.com
