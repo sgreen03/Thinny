@@ -1,10 +1,25 @@
 ---
-layout: post
-title: "Hello and Welcome!"
-quote: "My name is Sean. I'm a computer engineer who likes to think outside of the box."
-image:
-      url: /assets/images/Computer-engineering01_Web.jpg
-video: false
-comments: true
-theme_color: 302F2D
+layout: default
+title: Home
 ---
+
+<header class="clean" style="height: 350px; background-image: url({{ site.cover }}); {% if site.parallax != true %}background-attachment: scroll;{% endif %}" data-stellar-background-ratio="0.5" data-stellar-horizontal-offset="50">
+	{% include top.html %}
+	<a href="{{ site.url }}{{ site.baseurl }}">
+		<div id="home-title" class="site-icon-home" style="background-image: url({{ site.icon }});" data-stellar-ratio="0.5"></div>
+	</a>
+</header>
+<div id="middle">
+<div id="post-list">
+	{% for post in paginator.posts %}
+		<div>
+			<h1>{{ post.title }}</h1>
+			<p class="post-description">{% if post.quote %}{{ post.quote }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
+		</div>
+		<br>
+	{% endfor %}
+</div>
+</div>
+<footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; bottom: 0; z-index: 4; position: absolute; height: 60px; {% if site.parallax != true %}background-attachment: scroll;{% endif %}">
+	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a>.</p>
+</footer>
