@@ -7,14 +7,14 @@ permalink:	/blog/:title
 title:            Sean Green
 tagline:          'Computer Engineer'
 description:      'My Stomping Grounds.'
-url:              http://camporez.github.io
+url:              https://sgreen03.github.io/
 baseurl:          
 commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           Sean Green
+  url:            https://sgreen03.github.io/
 
 paginate:         5
 
