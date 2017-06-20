@@ -8,7 +8,7 @@ title:            Sean Green
 tagline:          'Computer Engineer'
 description:      'My Stomping Grounds.'
 url:              https://sgreen03.github.io/
-baseurl:          
+baseurl:          /home
 commentsystem:    google
 disqus:           example
 
