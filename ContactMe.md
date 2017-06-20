@@ -4,13 +4,13 @@ title: Contact Me
 permalink: ContactMe/
 ---
 
-Feel free to contact me at any one of the following:
+Feel free to contact me using one of the following:
 
 #### Email
 
 seangreen@live.com
 
-#### Phone Number
+#### Phone
 
 705-303-9370
 
