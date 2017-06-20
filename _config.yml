@@ -1,7 +1,7 @@
 # Dependencies
 markdown:	kramdown
 # Permalinks
-permalink:	/home
+permalink:
 
 # Setup
 title:            Sean Green
