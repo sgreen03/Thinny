@@ -41,7 +41,7 @@ social:
 
 menu:
   - title:        Home
-    url:          /ome
+    url:          /home
 
   - title:        About
     url:          /about
