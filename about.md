@@ -8,5 +8,5 @@ permalink: about/
   
  &nbsp;&nbsp;&nbsp;&nbsp; I am fascinated by how the world works and I am driven towards building a better future. I feel that technology is what will drive us forward. I have interests in the areas of artificial intelligence and machine learning.
  
- <img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
+ <img src="assets/images/cool.png" alt="hi" class="inline"/>
 
