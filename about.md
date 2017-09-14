@@ -4,7 +4,7 @@ title: About Me
 permalink: about/
 ---
 
-<img src="assets/images/10549241_10204854257497032_3603929277891564567_o.jpg"/>
+<img src="/assets/images/10549241_10204854257497032_3603929277891564567_o.jpg"/>
 
   &nbsp;&nbsp;&nbsp;&nbsp; I am a recent computer engineering graduate from the Unviersity of Guelph. I enjoy solving problems and tackling difficult challenges. I discovered my passion for coding in high school and I have become proficient in many languages including Java, C, Python and VB.
   
