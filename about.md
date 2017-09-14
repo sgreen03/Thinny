@@ -10,5 +10,5 @@ permalink: about/
  
  I enjoy being active and working out. Here is a picture of me riding a 3-wheeled unicycle
  
- img src="assets/images/10549241_10204854257497032_3603929277891564567_o.jpg"
+<img src="assets/images/10549241_10204854257497032_3603929277891564567_o.jpg"/>
 
